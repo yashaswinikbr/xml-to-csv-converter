@@ -5,7 +5,7 @@ To download script, either download the zip above or run the git clone command i
 
 ###### Example:
 ```sh
-git clone 
+git clone https://github.com/yashaswinikbr/xml-to-csv-converter.git
 ```
 then
 ```sh
